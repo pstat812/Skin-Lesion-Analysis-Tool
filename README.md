@@ -1,6 +1,6 @@
 # Skin Lesion Analysis Tool
 
-# Live Demo
+## Live Demo
 - https://skin-lesion-analysis-tool.netlify.app/
 
 ## Introduction
