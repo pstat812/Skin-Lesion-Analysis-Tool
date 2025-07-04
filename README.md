@@ -1,9 +1,11 @@
 # Skin Lesion Analysis Tool
 
+# Live Demo
+- https://skin-lesion-analysis-tool.netlify.app/
+
 ## Introduction
 The Skin Lesion Analysis Tool is a React Native application powered by machine learning for automated mole classification and skin lesion analysis. The app uses machine learning models to provide users with immediate feedback on potential skin concerns. It features binary classification and OpenAI GPT-4 for detailed evaluation of ABCD criteria, all wrapped in a modern, user-friendly interface with comprehensive history tracking.
-## Live Demo
-- https://skin-lesion-analysis-tool.netlify.app/
+
 ## Features and Functionality
 
 ### 🔍 ** Mole Classification**
